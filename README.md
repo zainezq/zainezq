@@ -24,7 +24,7 @@ I'm also a tutor, teaching Year 5 and Year 6 students in math.
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/zaine-ul-abideen-qayyum-801a53247)  
+- **LinkedIn**: [LinkedIn](www.linkedin.com/in/zaine-ul-abideen-qayyum-801a53247)  
 - **GitHub**: [github.com/zainezq](https://github.com/zainezq)
 
 Thanks for visiting! 

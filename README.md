@@ -1,28 +1,34 @@
-# Hi there, I'm Zaine! 👋
+# Welcome
 
-Welcome to my GitHub! I'm a final-year student at the University of Birmingham, majoring in computer science with a focus on web development, machine learning, and educational technology. I’m passionate about creating applications that make learning more accessible, especially for neurodiverse students.
+Welcome to my GitHub! 
+I'm a final-year student at the University of Birmingham, majoring in computer science.
 
-## 🔭 Current Projects
+I take interest in the following fields:
 
-- **Life long learning platform**: This is a place where students and teachers alike can access PDF's they upload, annotate literary texts, make notes, bookmarks etc., all for lifelong learning!
+- Web development
+- Full Stack Programming 
+- Scripting
+- Machine Learning
 
-- **Full-Stack Football Finder App**: Collaborated as a team lead to build a platform that connects football players. The project used Angular/TypeScript for the frontend and Spring Boot for the backend, with PostgreSQL as the database.
+## Current Projects
 
-## 🌱 Learning
+- **Final Year Project**: Overcoming Cognitive Overload: Designing an AI-Based Note-Taking Solution.
 
-- **Cloud Computing**: I'm exploring cloud solutions to improve my projects' scalability and reliability.
-- **Advanced Networking**: Recently, I've been diving into switches, routers, and network configurations.
-- **Java**: Currently upgrading my Java skills to take advantage of the latest features.
+- **Ricing my Linux** 
 
-## 👨‍🏫 Teaching Experience
+- **Modifying homelab**
+
+- **Working with LLM's to finetune models**
+
+## Teaching Experience
 
 I'm also a tutor, teaching Year 5 and Year 6 students in math.
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Zaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainezq&show_icons=true&theme=tokyonight)
 
-## 📫 Connect with Me
+## Connect with Me
 
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/zaine-ul-abideen-qayyum-801a53247/)  
 - **GitHub**: [github.com/zainezq](https://github.com/zainezq)
